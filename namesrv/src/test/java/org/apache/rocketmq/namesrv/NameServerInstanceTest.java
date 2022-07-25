@@ -23,6 +23,7 @@ import org.junit.Before;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+//TODO 启动开始
 public class NameServerInstanceTest {
     protected NamesrvController nameSrvController = null;
     protected NettyServerConfig nettyServerConfig = new NettyServerConfig();
